@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_pin_event" id="2#7JQ7a_N}cGry%6z%KE" x="0" y="0"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="device_show_leds" id="^K9FOeY|(Uo13Xa`b=,?"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_pin_event" id="1TpEeBGR+zQDf;-89QJ:" x="369" y="-1"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="re5u@myFD:ozpB^LO7:p"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_pin_event" id="5?zI,%xfy4+To_v_;EZz" x="714" y="-5"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="device_show_leds" id="p#Mc|?1?pE_S2O{R*b:G"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="UCs{;6=WV)gW/MkQu}x3" x="-46" y="448"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="-QRl[nY24z)9)-}NmX-u"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="TVq(``6E*%wnIojJ:gcG" x="308" y="444"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="?xQ:`Tx*s~VhSo=[ryvW"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="|B$}76`f08e{G#.(kulI" x="650" y="440"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="|zFYwL#_x_0.Wr~9PE3+"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block></xml>
